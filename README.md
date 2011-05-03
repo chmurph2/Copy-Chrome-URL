@@ -1,6 +1,6 @@
 # Copy Chrome URL
 
-Copy Chrome URL is an AppleScript that makes it dead-simple to copy the title
+Copy Chrome URL is an AppleScript that makes it simple to copy the title
 and URL of the current Google Chrome tab. I bind it to a shortcut key (see Usage
 below).
 
